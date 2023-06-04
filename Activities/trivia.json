@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "geography": {
+                "which is the capital of Argentina?": [
+                    {
+                        "correct": true,
+                        "option1": "Buenos Aires",
+                        "explanation": "it was founded on February 3rd 1536",
+                        "message": "Correct!"
+                    },
+                    {
+                        "correct": false,
+                        "option2": "San Juan",
+                        "explanation": "it was founded on June 13th 1562",
+                        "message": "Oh No best luck next time!"
+                    },
+                    {
+                        "correct": false,
+                        "option3": "Gualeguaychu",
+                        "explanation": "it was founded on October 18th 1783",
+                        "message": "Oh No the answer is not correct!"
+                    }
+                ]
+            }
+        },
+        {
+            "biology": {
+                "A person who studies biology is known as a...": [
+                    {
+                        "correct": false,
+                        "option1": "Natural Physician",
+                        "explanation": "A physician, medical practitioner, medical doctor, or simply doctor, is a health professional who practices medicine, which is concerned with promoting, maintaining or restoring health through the study, diagnosis, prognosis and treatment of disease, injury, and other physical and mental impairments.",
+                        "message": "Oh No the answer is not correct!"
+                    },
+                    {
+                        "correct": true,
+                        "option2": "Biologist",
+                        "explanation": "A biologist is a scientist who conducts research in biology. Biologists are interested in studying life on Earth, whether it is an individual cell, a multicellular organism, or a community of interacting populations.",
+                        "message": "Oh sorry that is not the correct answer."
+                    },
+                    {
+                        "correct": false,
+                        "option3": "Natural Activist",
+                        "explanation": "The person who protects the enviroment",
+                        "message": "Oh my Goodness, it is not correct"
+                    }
+                ]
+            }
+        }
+    ]
+}
