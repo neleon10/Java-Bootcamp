@@ -1,11 +1,17 @@
 import java.sql.SQLOutput;
 import clase_5.Ejercicios;
+import clase_6.Game;
 public class Main {
     public static void main(String[] args) {
+        //instance of classes
         Ejercicios ejercicios = new Ejercicios();
+        Game game = new Game();
+
+        game.rockPaperScissors();
+
         //ejercicios.edadPerro();
         //ejercicios.millaKilometros();
-        ejercicios.propinaPaPapa();
+        //ejercicios.propinaPaPapa();
        // ejercicios.descuento();
 
 
